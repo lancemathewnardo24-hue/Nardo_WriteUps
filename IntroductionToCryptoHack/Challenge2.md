@@ -9,7 +9,7 @@ The Second Challenge states that Python really stands out for cryptographic scri
 
 the file contains a python code which when is run gives us the flag. To further dig down this code, I'll try to explain the details of this code.
 
-1. **Starting with the given Integers** inside the list "ords"
+1. The code give us **A List with Integers** named "ords"
     > ords = [81, 64, 75, 66, 70, 93, 73, 72, 1, 92, 109, 2, 84, 109, 66, 75, 70, 90, 2, 92, 79]
 
 2. **XOR'ing** each integer using **o ^ 0x32** for each o in the list.
