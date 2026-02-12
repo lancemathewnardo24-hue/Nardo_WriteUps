@@ -2,8 +2,15 @@
 
 welcome to my write ups for Cyber Security **CRYPTOGRAPHY**
 
- ## Sources
+## Roadmap
+
+"wala pakoy roadmap"
+
+## Sources
 cryptohack.org
+
+## Days
+[day 1](IntroductionToCryptoHack)
 
 ## Contents
 - 
