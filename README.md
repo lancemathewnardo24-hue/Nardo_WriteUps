@@ -10,7 +10,7 @@ welcome to my write ups for Cyber Security **CRYPTOGRAPHY**
 cryptohack.org
 
 ## Days
-[day 1](IntroductionToCryptoHack)
+[day 1](IntroductionToCryptoHack/01-Day.md)
 
 ## Contents
 - 
