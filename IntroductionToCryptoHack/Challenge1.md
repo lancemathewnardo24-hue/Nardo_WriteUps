@@ -1,7 +1,7 @@
 ### Challenge 1
 > Finding FLags
 
-![Alt text](images/Chall1.png)
+![Alt text](Images\Chall1.png)
 
 ---
 
