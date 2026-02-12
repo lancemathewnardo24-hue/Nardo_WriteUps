@@ -5,7 +5,7 @@
 
 ---
 
-The Second Challenge states that Python really stands out for cryptographic scripts and attacks, then gives us a file named ["great_snakes.py"](Resources\great_snakes_35381fca29d68d8f3f25c9fa0a9026fb.py) 
+The Second Challenge states that Python really stands out for cryptographic scripts and attacks, then gives us a file named ["great_snakes.py"](Resources/great_snakes_35381fca29d68d8f3f25c9fa0a9026fb.py) 
 
 the file contains a python code which when is run gives us the flag. To further dig down this code, I'll try to explain the details of this code.
 
