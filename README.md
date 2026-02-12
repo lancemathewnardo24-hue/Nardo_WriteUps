@@ -18,7 +18,7 @@ cryptohack.org
 - 
 
 ## ALL CHALLENGES DONE
-[Go To Challenges]()
+[Go To Challenges](ChallengesCompleted.md)
 
 ## Tools Used
 - Python 3
