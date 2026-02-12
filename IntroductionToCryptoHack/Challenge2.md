@@ -21,8 +21,4 @@ Result: **crypto{z3n_0f_pyth0n}**
 
 ---
 
-
-<div style="display: flex; gap: 10px; margin-top: 20px;">
-  <a href="Challenge1.md" style="padding: 10px 20px; background-color: #5c5c5c; color: white; text-decoration: none; border-radius: 5px;">← Previous Challenge</a>
-  <a href="Challenge3.md" style="padding: 10px 20px; background-color: #a5cb6895; color: white; text-decoration: none; border-radius: 5px;">Next Challenge →</a>
-</div>
+[← Previous Challenge](Challenge1.md) | [Next Challenge →](Challenge3.md)
