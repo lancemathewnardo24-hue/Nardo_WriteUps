@@ -1,4 +1,4 @@
-### Challenge 3
+## Challenge 3
 > ASCII
 
 ![Alt text](Images/Chall3.png)

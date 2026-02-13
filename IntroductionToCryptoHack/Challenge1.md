@@ -1,4 +1,4 @@
-### Challenge 1
+## Challenge 1
 > Finding FLags
 
 ![Alt text](Images/Chall1.png)

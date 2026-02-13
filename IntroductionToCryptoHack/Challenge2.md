@@ -1,5 +1,5 @@
-### Challenge 1
-
+## Challenge 2
+> Great Snakes
 ![Alt text](Images/Chall2.png)
 
 ---
