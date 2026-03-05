@@ -15,3 +15,5 @@ here is the code I made for this challenge:
 
 resources: <br>
 [ASCII table](https://www.rapidtables.com/code/text/ascii-table.html)
+
+[← Previous Challenge](Challenge3.md) | [Next Challenge →](Challenge5.md)
