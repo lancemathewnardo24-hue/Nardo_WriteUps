@@ -1,18 +1,9 @@
 ## Challenge 8
 
->🔐 Encoding Messages as Integers (RSA Preprocessing)
+>🔐 XOR Startup
 
 
-![Alt text](Images/Chall7.png)
-
----
-Perfect 👍 here’s a **simple, clean write-up** you can submit or keep in your notes.
-
----
-
-# 📝 Challenge Write-Up
-
-## 🔐 XOR Starter
+![Alt text](Images/Chall8.png)
 
 ---
 

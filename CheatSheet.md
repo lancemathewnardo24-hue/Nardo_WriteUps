@@ -27,3 +27,7 @@ are inverse functions.
 
 used for xor'ing strings
 
+
+Brute Force Xor Key
+[Open Code](IntroductionToCryptoHack/Resources/chall9.py)
+

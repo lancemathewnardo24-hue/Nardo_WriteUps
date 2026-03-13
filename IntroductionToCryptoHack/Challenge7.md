@@ -3,7 +3,7 @@
 > XOR Chain
 
 
-![Alt text](Images/Chall8.png)
+![Alt text](Images/Chall7.png)
 
 ---
 
