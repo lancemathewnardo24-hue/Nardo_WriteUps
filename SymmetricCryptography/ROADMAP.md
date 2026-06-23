@@ -5,32 +5,34 @@ Deep dive into symmetric encryption algorithms and number theory foundations. Ma
 
 ---
 
-## Modular Arithmetic Topics (8 Lessons)
+## Weekly Breakdown
+
+### Week 1: Modular Arithmetic Foundations
 
 | Topic | Status | Estimated Time |
 |-------|--------|-----------------|
-| Modular Arithmetic 1 | In Progress | 1 day |
-| Modular Arithmetic 2 | Planned | 1 day |
-| Modular Inverting | Planned | 1 day |
-| Quadratic Residues | Planned | 1 day |
-| Chinese Remainder Theorem | Planned | 1 day |
-| Primitive Roots | Planned | 1 day |
-| Discrete Logarithm | Planned | 1 day |
+| Modular Arithmetic 1 | ✅ Completed | 1 day |
+| Modular Arithmetic 2 | ✅ Completed | 1 day |
+| Modular Inverting | ✅ Completed | 1 day |
+| Quadratic Residues | ✅ Completed | 1 day |
+| Review & Practice | ✅ Completed | 1 day |
 
-**Subtotal:** 1 week (1-2 hrs/day)
+**Week 1 Total:** 5 days (1-2 hrs/day)
 
 ---
 
-## Symmetric Cryptography Topics (4 Writeups)
+### Week 2: Advanced Number Theory & Symmetric Encryption
 
 | Topic | Status | Estimated Time |
-|--------|--------|-----------------|
+|-------|--------|-----------------|
+| Chinese Remainder Theorem | ✅ Completed | 1 day |
+| Primitive Roots | ✅ Completed | 1 day |
+| Discrete Logarithm | ✅ Completed | 1 day |
 | Symmetric Encryption Overview | ✅ Completed | 1 day |
-| AES (Advanced Encryption Standard) | ✅ Completed | 1 day |
-| Block Cipher Modes of Operation | ✅ Completed | 1 day |
-| Padding and Authentication | ✅ Completed | 1 day |
+| AES & Cipher Modes | ✅ Completed | 1 day |
+| Padding & Authentication | ✅ Completed | 1 day |
 
-**Subtotal:** 1 week (1-2 hrs/day)
+**Week 2 Total:** 6 days (1-2 hrs/day)
 
 ---
 

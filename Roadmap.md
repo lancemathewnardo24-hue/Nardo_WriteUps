@@ -1,21 +1,143 @@
-# CryptoHack 3-Week Roadmap 
+# CyberSecurity Cryptography Writeups - Monthly Roadmap
 
-This roadmap follows the **exact CryptoHack structure** and is designed for ~2–3 hours per day.
-
-Tracks Covered:
-- Introduction
-- Modular Arithmetic (10 Lessons)
-- Symmetric Cryptography (11 Lessons)
-- Public-Key Cryptography (14 Lessons)
-- Elliptic Curves (18 Lessons)
+Complete roadmap for cryptography learning organized by month with weekly breakdowns.
 
 ---
 
-# 🗓️ Week 1 — Foundations
+# 📅 FEBRUARY: Introduction To Cryptohack
 
-## 📘 Introduction Track (Day 1)
+## Week 1: Foundations & Core Challenges
 
-Complete:
+### Daily Breakdown
+- **Day 1**: Introduction to Cryptography (encoding, XOR, bytes, big integers)
+- **Day 2-3**: Challenges 1-6 (basic to intermediate concepts)
+- **Day 4-5**: Challenges 7-10 (advanced applications) + Review
+
+### ✅ Completed Topics (Week 1)
+- Introduction to Cryptography
+- Encoding & Decoding
+- XOR operations and reversibility
+- Bytes & Big Integers
+- Basic Python scripting for crypto
+
+---
+
+## Week 2: Practice & Mastery
+
+### Daily Breakdown
+- **Day 1**: Challenge Re-Practice (solve without hints)
+- **Day 2**: Implement From Scratch (custom crypto functions)
+- **Day 3**: Advanced Scenarios & Edge Cases
+- **Day 4**: Code Optimization & Refactoring
+- **Day 5**: Comprehensive Writeup & Summary Project
+
+### ✅ Completed Topics (Week 2)
+- Challenge mastery without external help
+- Implementation of crypto functions from scratch
+- Edge case handling and error management
+- Code optimization techniques
+- Comprehensive documentation
+
+### 🎯 Goal Achieved
+Deep foundational understanding of basic cryptography and Python scripting for crypto tasks with practical mastery of all introduction challenges.
+
+[View February Details](IntroductionToCryptoHack/ROADMAP.md)
+
+---
+
+# 📅 MARCH: Symmetric Cryptography & Modular Arithmetic
+
+## Week 1: Modular Arithmetic Foundations
+
+### Daily Breakdown
+- **Day 1**: Modular Arithmetic 1 & 2 (basics and operations)
+- **Day 2**: Modular Inverting (finding multiplicative inverse)
+- **Day 3**: Quadratic Residues (properties and testing)
+- **Day 4-5**: Review & Practice Exercises
+
+### ✅ Completed Topics
+- Modulo operations
+- GCD & Extended Euclidean Algorithm
+- Modular inverse calculations
+- Quadratic residues
+
+---
+
+## Week 2: Advanced Number Theory & Symmetric Encryption
+
+### Daily Breakdown
+- **Day 1**: Chinese Remainder Theorem (CRT applications)
+- **Day 2**: Primitive Roots (generators in cyclic groups)
+- **Day 3**: Discrete Logarithm (one-way functions)
+- **Day 4**: Symmetric Encryption Overview (concepts and algorithms)
+- **Day 5**: AES & Cipher Modes (deep dive into modern encryption)
+- **Day 6**: Padding & Authentication (security essentials)
+
+### ✅ Completed Topics
+- All 7 modular arithmetic lessons
+- Symmetric encryption fundamentals
+- AES algorithm mechanics
+- Block cipher modes (ECB, CBC, CTR, GCM)
+- PKCS#7 padding & authentication (HMAC, GCM)
+
+### 🎯 Goals Achieved
+- Strong mathematical foundations for cryptography
+- Practical understanding of modern symmetric encryption
+- Security best practices for encryption
+
+[View March Details](SymmetricCryptography/ROADMAP.md)
+
+---
+
+# 📅 APRIL: Gandalf | Lakera Prompt Injection
+
+## Week 1: Prompt Injection Challenges
+
+### Daily Breakdown
+- **Day 1**: Challenge 1 - Basic Prompt Injection
+- **Day 2**: Challenge 2 - Constraint Bypass Techniques
+- **Day 3**: Challenge 3 - Context & Data Extraction
+- **Day 4**: Challenge 4 - Multi-turn Attack Strategies
+- **Day 5**: Challenge 5 - Advanced Exploitation
+
+### 📋 Learning Objectives
+- Understand LLM vulnerabilities
+- Learn prompt injection attack vectors
+- Develop defensive mindset
+- Practice responsible security research
+
+[View April Details](April/ROADMAP.md)
+
+---
+
+# 📊 Overall Progress Summary
+
+| Month | Status | Duration | Topics |
+|-------|--------|----------|--------|
+| February | ✅ Completed | 2 weeks | Introduction (10 challenges + practice) |
+| March | ✅ Completed | 2 weeks | Modular Arithmetic (7 lessons) + Symmetric Crypto (4 writeups) |
+| April | 📋 Planned | 1 week | Prompt Injection (5 challenges) |
+
+**Total Time Invested:** ~5 weeks
+
+---
+
+# 🎯 Next Steps
+
+1. Continue to Week 2 deep practice in April (after completing current months)
+2. Complete April Gandalf challenges
+3. Add additional months as needed
+4. Document findings and solutions for each challenge
+5. Review and reinforce weak areas
+
+---
+
+# 📚 Additional Resources
+
+- [February: Introduction Index](IntroductionToCryptoHack/INDEX.md)
+- [March: Symmetric Crypto & Modular Arithmetic Index](SymmetricCryptography/INDEX.md)
+- [April: Prompt Injection Index](April/INDEX.md)
+- [Main README](README.md)
 - Introduction to Cryptography
 - Encoding
 - XOR

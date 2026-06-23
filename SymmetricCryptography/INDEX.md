@@ -21,13 +21,13 @@ Deep dive into symmetric encryption algorithms and number theory foundations. Ma
 | Topic | File | Status |
 |-------|------|--------|
 | Modular Arithmetic Cheat Sheet | [00_CHEAT_SHEET.md](../ModularArithmetic/00_CHEAT_SHEET.md) | ✅ Reference |
-| Modular Arithmetic 1 | [01_modular_arithmetic_1.md](../ModularArithmetic/01_modular_arithmetic_1.md) | In Progress |
-| Modular Arithmetic 2 | [02_modular_arithmetic_2.md](../ModularArithmetic/02_modular_arithmetic_2.md) | Planned |
-| Modular Inverting | [03_modular_inverting.md](../ModularArithmetic/03_modular_inverting.md) | Planned |
-| Quadratic Residues | [04_quadratic_residues.md](../ModularArithmetic/04_quadratic_residues.md) | Planned |
-| Chinese Remainder Theorem | [05_chinese_remainder_theorem.md](../ModularArithmetic/05_chinese_remainder_theorem.md) | Planned |
-| Primitive Roots | [06_primitive_roots.md](../ModularArithmetic/06_primitive_roots.md) | Planned |
-| Discrete Logarithm | [07_discrete_logarithm.md](../ModularArithmetic/07_discrete_logarithm.md) | Planned |
+| Modular Arithmetic 1 | [01_modular_arithmetic_1.md](../ModularArithmetic/01_modular_arithmetic_1.md) | ✅ Completed |
+| Modular Arithmetic 2 | [02_modular_arithmetic_2.md](../ModularArithmetic/02_modular_arithmetic_2.md) | ✅ Completed |
+| Modular Inverting | [03_modular_inverting.md](../ModularArithmetic/03_modular_inverting.md) | ✅ Completed |
+| Quadratic Residues | [04_quadratic_residues.md](../ModularArithmetic/04_quadratic_residues.md) | ✅ Completed |
+| Chinese Remainder Theorem | [05_chinese_remainder_theorem.md](../ModularArithmetic/05_chinese_remainder_theorem.md) | ✅ Completed |
+| Primitive Roots | [06_primitive_roots.md](../ModularArithmetic/06_primitive_roots.md) | ✅ Completed |
+| Discrete Logarithm | [07_discrete_logarithm.md](../ModularArithmetic/07_discrete_logarithm.md) | ✅ Completed |
 
 ---
 

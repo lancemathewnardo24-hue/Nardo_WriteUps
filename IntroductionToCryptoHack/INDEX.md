@@ -1,18 +1,23 @@
 # February: Introduction To Cryptohack - Index
 
 ## 📚 Overview
-Introduction to basic cryptography concepts and cryptohack platform challenges. Build foundational knowledge in encryption, encoding, and fundamental crypto operations.
+Introduction to basic cryptography concepts and cryptohack platform challenges with comprehensive hands-on practice spanning 2 weeks. Master foundational concepts and build practical Python skills for cryptographic problem-solving.
 
 ---
 
 ## 📑 Contents
 
-### Getting Started
-- [Day 1 - Introduction](01-Day.md)
+### Week 1: Foundations & Core Challenges (Days 1-5)
 
-### Challenges (10 Total)
+#### Daily Breakdown
+- **Day 1**: Introduction to Cryptography basics
+- **Days 2-3**: Challenges 1-6 (basic to intermediate)
+- **Days 4-5**: Challenges 7-10 + Review
+
+#### Topics Covered
 | Challenge | File | Status |
 |-----------|------|--------|
+| Introduction | [01-Day.md](01-Day.md) | ✅ Completed |
 | Challenge 1 | [Challenge1.md](Challenge1.md) | ✅ Completed |
 | Challenge 2 | [Challenge2.md](Challenge2.md) | ✅ Completed |
 | Challenge 3 | [Challenge3.md](Challenge3.md) | ✅ Completed |
@@ -24,28 +29,66 @@ Introduction to basic cryptography concepts and cryptohack platform challenges. 
 | Challenge 9 | [Challenge9.md](Challenge9.md) | ✅ Completed |
 | Challenge 10 | [Challenge10.md](Challenge10.md) | ✅ Completed |
 
-### Summary & Bonus
-- [Last Challenge Summary](LastChall.md)
+---
 
-### Resources
+### Week 2: Practice & Mastery (Days 6-10)
+
+#### Daily Breakdown
+- **Day 6**: Re-solve all challenges without hints
+- **Day 7**: Implement crypto functions from scratch
+- **Day 8**: Advanced scenarios and edge cases
+- **Day 9**: Code optimization and refactoring
+- **Day 10**: Comprehensive writeup and summary project
+
+#### Mastery Activities
+| Activity | File | Status |
+|----------|------|--------|
+| Challenge Re-Practice | [Challenge1.md](Challenge1.md) - [Challenge10.md](Challenge10.md) | ✅ Completed |
+| Implementation Project | [LastChall.md](LastChall.md) | ✅ Completed |
+| Advanced Writeup | Summary & Reflection | ✅ Completed |
+
+---
+
+### Resources & Tools
 - [Python Scripts & Tools](Resources/)
 - [Images & Diagrams](Images/)
+- External: CyberChef for verification
 
 ---
 
 ## 📖 Roadmap
-[View Month Roadmap](ROADMAP.md) - Timeline and learning objectives
+[View Month Roadmap](ROADMAP.md) - Detailed timeline and learning objectives
 
 ---
 
 ## 🔗 Navigation
-- [← Back to Main](../README.md)
-- [Next Month: Symmetric Cryptography →](../SymmetricCryptography/INDEX.md)
+- [→ Next Month: Symmetric Cryptography](../SymmetricCryptography/INDEX.md)
+- [Back to Main](../README.md)
 
 ---
 
-## 🎯 Key Takeaways
-- Understanding basic encoding/decoding operations
-- XOR operations and their reversibility
-- Bytes and integer conversions
-- Introduction to Python for cryptography
+## 🎯 Key Learning Outcomes
+
+### Week 1 Competencies
+- ✅ Explain encoding vs encryption
+- ✅ Convert between hex, binary, and text
+- ✅ Understand XOR operations and properties
+- ✅ Solve basic cryptographic challenges
+- ✅ Write basic Python crypto code
+
+### Week 2 Competencies
+- ✅ Solve all challenges without external help
+- ✅ Implement crypto functions from scratch
+- ✅ Handle edge cases and error conditions
+- ✅ Write optimized, clean Python code
+- ✅ Understand the theory behind each challenge
+- ✅ Explain and document cryptographic concepts
+
+---
+
+## 💡 Key Concepts Covered
+- **Encoding**: Binary, Hex, ASCII, Base64 conversions
+- **XOR**: Bitwise operations, reversibility, properties
+- **Bytes & Integers**: Binary representation, manipulation
+- **Python Cryptography**: Libraries, implementation, best practices
+- **Problem-Solving**: Challenge analysis, debugging, optimization
