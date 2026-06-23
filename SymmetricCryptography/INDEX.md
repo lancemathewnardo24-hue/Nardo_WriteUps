@@ -1,18 +1,26 @@
 # March: Symmetric Cryptography & Modular Arithmetic - Index
 
 ## 📚 Overview
-Deep dive into symmetric encryption algorithms and number theory foundations. Master modular arithmetic concepts essential for cryptography including GCD, modular inverses, and discrete logarithms.
+Deep dive into symmetric encryption algorithms and number theory foundations. Master modular arithmetic concepts and symmetric cryptography techniques essential for cryptography including GCD, modular inverses, discrete logarithms, AES, and cipher modes.
 
 ---
 
 ## 📑 Contents
 
-### Quick Reference
-- [Modular Arithmetic Cheat Sheet](../ModularArithmetic/00_CHEAT_SHEET.md)
+### Symmetric Cryptography Writeups (4 Topics)
 
-### Modular Arithmetic Lessons (8 Topics)
 | Topic | File | Status |
 |-------|------|--------|
+| Symmetric Encryption Overview | [01_symmetric_encryption_overview.md](01_symmetric_encryption_overview.md) | ✅ Completed |
+| AES (Advanced Encryption Standard) | [02_AES_Advanced_Encryption_Standard.md](02_AES_Advanced_Encryption_Standard.md) | ✅ Completed |
+| Block Cipher Modes of Operation | [03_Block_Cipher_Modes.md](03_Block_Cipher_Modes.md) | ✅ Completed |
+| Padding and Authentication | [04_Padding_and_Authentication.md](04_Padding_and_Authentication.md) | ✅ Completed |
+
+### Modular Arithmetic Lessons (8 Topics)
+
+| Topic | File | Status |
+|-------|------|--------|
+| Modular Arithmetic Cheat Sheet | [00_CHEAT_SHEET.md](../ModularArithmetic/00_CHEAT_SHEET.md) | ✅ Reference |
 | Modular Arithmetic 1 | [01_modular_arithmetic_1.md](../ModularArithmetic/01_modular_arithmetic_1.md) | In Progress |
 | Modular Arithmetic 2 | [02_modular_arithmetic_2.md](../ModularArithmetic/02_modular_arithmetic_2.md) | Planned |
 | Modular Inverting | [03_modular_inverting.md](../ModularArithmetic/03_modular_inverting.md) | Planned |
@@ -36,10 +44,27 @@ Deep dive into symmetric encryption algorithms and number theory foundations. Ma
 ---
 
 ## 🎯 Key Concepts
-- **Modular Arithmetic**: Operations within a finite set
+
+### Symmetric Cryptography
+- **Encryption/Decryption**: Confidentiality using shared secret key
+- **AES Algorithm**: SubBytes, ShiftRows, MixColumns, AddRoundKey operations
+- **Block Cipher Modes**: ECB ❌, CBC ✅, CTR ✅, GCM ✅ (best)
+- **Padding**: PKCS#7 for block alignment
+- **Authentication**: HMAC or GCM for integrity verification
+
+### Modular Arithmetic
+- **Modular Operations**: Operations within finite set
 - **GCD & Extended Euclidean Algorithm**: Finding inverses
-- **Modular Inverse**: Critical for RSA and other cryptosystems
+- **Modular Inverse**: Critical for RSA and encryption
 - **Fermat's Little Theorem**: Mathematical foundation for crypto
 - **Chinese Remainder Theorem**: Breaking down complex moduli
 - **Primitive Roots**: Generators for cyclic groups
 - **Discrete Logarithm Problem**: One-way function basis
+
+---
+
+## 💡 Quick Links
+- [Symmetric Encryption Overview](01_symmetric_encryption_overview.md) - Start here for basics
+- [AES Deep Dive](02_AES_Advanced_Encryption_Standard.md) - Algorithm details
+- [Cipher Modes Comparison](03_Block_Cipher_Modes.md) - When to use which mode
+- [Padding & Authentication](04_Padding_and_Authentication.md) - Security essentials
