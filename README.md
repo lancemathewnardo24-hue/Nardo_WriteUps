@@ -1,34 +1,28 @@
-# Nardo_WriteUps
+# CyberSecurity Cryptography Writeups
 
-welcome to my write ups for Cyber Security **CRYPTOGRAPHY**
+Welcome to my writeups for Cyber Security **CRYPTOGRAPHY**
 
-## Roadmap
+## Monthly Writeups
 
-[Enter Roadmap](Roadmap.md)
+### February (Introduction To Cryptohack)
+- [February Writeups](IntroductionToCryptoHack/)
+- [February RoadMap](IntroductionToCryptoHack/ROADMAP.md)
 
-| Track | Estimated Time |
-|-------|----------------|
-| Introduction | 1 day |
-| Modular Arithmetic | 5–6 days |
-| Symmetric Crypto | 3 days |
-| Public-Key Crypto | 4 days |
-| Elliptic Curves | 6–7 days |
+### March (Symmetric Cryptography)
+- [March Writeups](SymmetricCryptography/)
+- [March RoadMap](SymmetricCryptography/ROADMAP.md)
 
-Total: ~3 Weeks (2–3 hrs/day)
+### April (Gandalf | Lakera Prompt Injection)
+- [April Writeups](April/)
+- [April RoadMap](April/ROADMAP.md)
+
 ## Sources
-cryptohack.org
-
-## Days
-[day 1](IntroductionToCryptoHack/01-Day.md)
-
-## Contents
-- 
-- 
-- 
-
-## ALL CHALLENGES DONE
-[Go To Challenges](ChallengesCompleted.md)
+- cryptohack.org
+- Gandalf (Lakera)
 
 ## Tools Used
 - Python 3
 - [CyberChef](https://gchq.github.io/CyberChef/)
+
+## Additional Resources
+[All Challenges Completed](ChallengesCompleted.md)
